@@ -1,0 +1,10 @@
+this is an ISP website with 2 divided api server and databases with a native php programming using laravel, mysql, bootstrap
+
+you can migrate directly each project to the database from the terminal
+but just in case I already put an sql database file to be imported if there is a problem with the migration
+which is in the website directory
+
+run the project on these port
+
+rest-api-admin --> Port 6969
+rest-api-sales --> Port 7676
